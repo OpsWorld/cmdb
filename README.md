@@ -1,7 +1,4 @@
 # Django CMDB and salt UI
-* [Contributors](#contributors)
-* [Install guideline](#install-guideline)
-* [Project screenshots](#project-screenshots)
 
 ## Install guideline:
 * 需要python2.7环境
