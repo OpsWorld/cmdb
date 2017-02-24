@@ -3,10 +3,6 @@
 * [Install guideline](#install-guideline)
 * [Project screenshots](#project-screenshots)
 
-## Contributors
-* 王墉 (halcyon) jumpserver开发者之一
-* 张磊 (python开发大神，指点用了很多django优秀扩展)
-
 ## Install guideline:
 * 需要python2.7环境
 * 查看doc/help.txt
